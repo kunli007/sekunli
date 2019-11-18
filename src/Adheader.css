@@ -1,0 +1,120 @@
+
+  .App-adheader {
+    background-color: #F7A8B4; 
+    width:100%; 
+    height:2%; 
+    box-shadow: 0 3px 3px rgba(57, 63, 72, 0.3);
+    position:fixed;
+    text-align: center;
+
+    margin: -20px 0px/*margin: -1085px -150pxรันทุกตัวยกเว้น conter*/
+    /*margin: -20px 0px; รัน conter*/
+    
+  }
+  
+  .adbutton {
+    background-color: #76DEBA; 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 1% 3%;
+    cursor: pointer;
+    border-radius: 12px;
+    box-shadow: 2px 3px 3px rgba(57, 63, 72, 0.3);
+    padding: 0.5% 1.5%;
+    float: right;
+  }
+  .adbutton1{
+    color: white;
+    text-decoration: none;
+    padding: 0.5% 0%;
+    float:right;
+    font-size: 20px;
+    margin: 1% -2%;
+    text-align: center;
+    font-weight:bold;
+      
+  }
+
+  .user_icon{ 
+    color: white;
+    padding: 0.5% 1%;
+    float:right;
+    margin: 1.2% 2%;
+    font-size: 22px;
+    text-shadow: 1px 1px 1px #000;      
+    }
+
+  .bell_icon{ 
+      color: white;
+      padding: 0.5% 1%;
+      float:right;
+      margin: 1.2% -2%;
+      font-size: 22px;
+      text-shadow: 1px 1px 1px #000;
+      }
+  
+  
+      input[type=text002] {
+        width: 50%;
+        float:right;
+        padding: 12px 20px;
+        margin: 29px 190px;
+        box-sizing: border-box;
+        border: none;
+        background-color: #FCE5E8;
+        border-radius: 80px;
+        box-shadow: 2px 2px 2px rgba(57, 63, 72, 0.3);
+        width: 795px;
+        height: 35px;
+      }
+
+  
+  
+  .adbody{
+  padding:0px;
+  margin:0px;
+  height:100%;
+  position: fixed;
+  }
+  
+  
+  .App-logo3{
+    position: fixed;
+    margin: -30px 80px;
+    float: left;
+    height: 45%;
+    /*top:0px; left:100px;*/
+    /*border: 1px solid red;*/
+  
+  }
+  .App-logo2{
+    position:absolute;
+    margin: -95px 0px;
+  }
+  .Logo{
+    background-image: url('./asset/logoSE.jpg');
+  
+    
+  }
+  
+  .adsearchbarbox4{
+    position:absolute;
+    margin: 3px 0px 0px 25px ;
+    
+    
+  }
+  .adsearchbarbox3{
+    position:absolute;
+    margin: 29px 1540px ;
+    background-color: #76DEBA; 
+    width: 69px;
+    height: 35px;
+    border-radius: 80px;
+    color: white;
+
+  }
+  
