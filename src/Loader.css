@@ -1,0 +1,40 @@
+
+
+.App2{
+  margin: 392px 820px  ;
+
+}
+
+.thloder{
+  font-size: 30px;
+    /* สไตล์สำหรับจัดให้อยู่กึ่งกลาง */
+    position: absolute;
+    top: 900px;
+    left: 1020px;
+    margin-top: -220px; /* ห่างจากรูป */
+    margin-left: 5px; /* -(width/2) */
+  
+  
+}
+
+.thloder1{
+
+  font-size:20px;
+  color:black;
+  /* สไตล์สำหรับจัดให้อยู่กึ่งกลาง */
+  position: absolute;
+  top: 960px;
+  left: 1040px;
+  margin-top: -215px ; /* ห่างจากรูป */
+  margin-left: 7px; /* -(width/2) */
+
+  
+}
+.containerloder2{
+  margin: 150px;
+  
+}
+
+
+
+

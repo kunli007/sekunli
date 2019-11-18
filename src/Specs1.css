@@ -1,0 +1,121 @@
+
+.specs1{
+    margin: -810px 150px;
+    
+   
+   
+   
+}
+
+
+
+input[type=text00001] {
+    width: 685px;
+    height:68px ;
+    padding: 12px 20px;
+    margin: 26px 26px;
+    font-size: 26px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 80px;
+    box-shadow: 2px 2px 2px rgba(57, 63, 72, 0.3);
+
+  }
+  
+  .search_icon002{
+  
+    color: black;
+    margin: 0px -80px;
+    font-size: 40px;
+ 
+  }
+  
+  .search_icon001{
+  
+    color: black;
+    margin-left: 170px ;
+    margin-right: -120px ;
+    font-size: 30px;
+  
+  }
+  .body00001{
+    font-family: 'Athiti', Superspace;
+    border: 1px solid #ccc;
+    max-width: 895px;
+    height: 359px;
+    border-radius: 13px;
+    margin: 17px; 
+    color: black;
+    font-size: 26px;
+    text-transform: uppercase;
+    margin-left: 0px;
+
+  }
+  .box00001{
+    font-family: 'Athiti', Superspace;
+    border: 1px solid#707070;
+    background: #F4F2F2;
+    max-width: 332px;
+    height: 75px;
+    margin: -90px;
+    margin-left: 88px ;
+    margin-right: -355px ;
+    border-radius: 8px;
+    color: black;
+    font-size: 20px;
+    text-transform: uppercase;
+   
+  }
+  .gal35{
+    margin-left: 48px  ;
+    
+
+
+    
+  }
+ 
+  .box00002{
+    font-family: 'Athiti', Superspace;
+    border: 1px solid#707070;
+    background: #F4F2F2;
+    max-width: 332px;
+    height: 75px;
+    margin: -90px;
+    margin-left: 90px ;
+    margin-right: -355px ;
+    border-radius: 8px;
+    color: black;
+    font-size: 20px;
+    text-transform: uppercase;
+  }
+.gal31{
+    margin-left: 48px ;
+    
+
+      
+  }
+.box00003{
+    margin: 130px;
+    margin-left: 0px ;
+    
+}
+.serif20{
+   
+    color: #413A3A;
+    font-size: 20px;
+    margin: -5px 40px;
+   
+
+    
+}
+.serif21{
+  
+  color:#413A3A;
+  font-size: 20px;
+  margin: -5px 40px;
+  
+  
+}
+.box0012{
+  margin: 60px 40px;
+}

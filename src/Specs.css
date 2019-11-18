@@ -1,0 +1,91 @@
+
+.specs{
+ /* margin: -818px 0px -55px 0px; รัน header*/
+ margin: 268px 0px -55px 150px; /*margin: 268px 0px -55px 150px;รัน adheader*/
+ margin-right: 0px;
+}
+
+
+.box0001{
+  font-family: 'Athiti', Superspace;
+  border: 1px solid #ccc;
+  background: #FAE0E0;
+  max-width: 344px;
+  height: 264px;
+  margin: 17px;
+  border-radius: 22px;
+  box-shadow: 2px 3px 3px rgba(57, 63, 72, 0.3);
+  color: black;
+  font-size: 26px;
+  text-transform: uppercase; 
+  margin-left: 1344px;
+ 
+ 
+    
+
+    
+}
+.serif0002{
+    
+    color: black;
+    font-size: 26px;
+    margin-left: 60px;
+   
+
+    
+}
+.serif0001{
+    
+  color: black;
+  font-size: 26px;
+  margin-left: 100px;
+  
+  
+  
+}
+
+
+  .box0002{
+    font-family: 'Athiti', Superspace;
+    border: 1px solid #ccc;
+    background: #FAE0E0;
+    max-width: 344px;
+    height: 264px;
+    border-radius: 22px;
+    margin: 17px;
+    box-shadow: 2px 3px 3px rgba(57, 63, 72, 0.3);
+    color: black;
+    font-size: 26px;
+    text-transform: uppercase;
+    margin-left: 1344px;
+
+
+  
+  
+  
+
+  }
+  .button0002 {
+    font-family: 'Athiti', Superspace;
+    background-color: #FAE0E0; 
+    color: black;
+    font-size: 30px;
+    margin: 15px;
+    border: 1px solid #ccc;
+    border-radius: 14px;
+    width: 344px;
+    height: 73px;
+    box-shadow: 2px 3px 3px rgba(57, 63, 72, 0.3);
+    margin-left: 1344px;
+  
+  }
+  .button-thx{
+    font-family: 'Athiti', Superspace;
+    margin: 17px;
+    font-size: 30px;
+    color: black;
+    margin-left: 1390px;
+  }
+  
+
+  

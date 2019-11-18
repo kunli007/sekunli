@@ -1,0 +1,206 @@
+.Messenger1{
+  margin: 98px 0px 0px 151px;
+  font-family: 'Athiti', Superspace;
+  height: 0px;
+  }
+  
+  
+  .box19{
+    font-family: 'Athiti', Superspace;
+    border: 1px solid #ccc;
+    background: #FAE0E0;
+    max-width: 344px;
+    height: 264px;
+    margin: 30px;
+    border-radius: 22px;
+    box-shadow: 2px 3px 3px rgba(57, 63, 72, 0.3);
+    color: black;
+    font-size: 26px;
+    text-transform: uppercase; 
+    margin-left: 1344px ;
+
+  }
+  .serif{
+      
+      color: black;
+      font-size: 26px;
+      margin-left: 60px;
+      
+ 
+  }
+  .serif1{
+    font-family: 'Athiti', Superspace;
+    color: black;
+    font-size: 26px;
+    margin-left: 120px ;
+    padding: 10px;
+
+   
+  
+ 
+  }
+  
+
+    .button3 {
+      font-family: 'Athiti', Superspace;
+      background-color:#D9D9D9; 
+      color: black;
+      font-size: 30px;
+      margin: 30px;
+      border: 1px solid#707070;
+      border-radius: 14px;
+      width: 344px;
+      height: 73px;
+      box-shadow: 2px 3px 3px rgba(57, 63, 72, 0.3);
+      margin-left: 1344px;
+    
+    }
+
+
+
+    .active {
+        font-family: 'Athiti', Superspace;
+        border-radius: 20px 20px 0 0; 
+         background-color: #FAE0E0;
+         border: 1px solid#707070;
+         color: #464646;
+         width: 344px;
+         height: 70px;
+         font-size: 30px;
+         text-align: center;
+         margin-left: 0px;
+         margin:0px;
+       
+        
+     }
+     .body10{
+        background-color: #FFFAFA;
+        border: 1px solid#707070;
+        width: 344px;
+        height: 500px;
+        margin-left: 1348px;
+        border-radius: 22px;
+        margin: 0px 0px 0px 1348px;
+       
+    }
+    .body6{
+      margin-left: 50px;
+      margin: 50px;
+       
+
+    }
+    .gal{
+        margin:20px 30px 10px 10px;
+    }
+    .body7{
+      margin: -380px 30px ;
+      
+       
+
+    }
+   
+    .gal3{
+        margin:15px 0px -60px -400px;
+        
+    }
+    .serif2{
+        margin:10px 0px -60px -200px;
+    }
+    .ka{
+        margin: 0px -400px 80px 0px;
+        color: #707070;
+
+    }
+    .body8{
+        margin: 30px;
+
+    }
+    .boxmessenger{
+        position:absolute; /* กำหนดการจัดตำแหน่งส่วนพื้นที่คลุมเนื้อหารุปและข้อความซ้อนทับ */
+        background-color:#FFFFFF;
+        border: 1px solid#707070;
+        width: 464px;
+        height: 457px;
+        margin: 80px 0px 0px -84px;
+     
+       
+      
+       
+    }
+
+
+    
+    .messenger2{
+       
+        background-color: #E2BCC3;
+        border: 1px solid#707070;
+        color: #707070;
+        width: 464px;
+        height: 75px;
+        font-size: 20px;
+        text-align: center;
+        margin: 0px 0px ;
+    }
+    .body9{
+        background-color: #FAE0E0;
+        border: 1px solid#707070;
+        width: 227px;
+        height: 38px;
+        border-radius: 17px;
+        font-size: 20px;
+        color: black;
+        margin: 34px 90px ;
+    }
+    .serif5{
+        margin: 0px;
+    }
+    .body12{
+        background-color: #FFFFFF;
+        border: 1px solid#707070;
+        width: 464px;
+        height: 60px;
+        font-size: 20px;
+        text-align: center;
+        margin: 265px -31px ;
+
+    }
+    
+    input[type=text3] {
+        width: 50%;
+        float:right;
+        padding: 12px 20px;
+        margin: 15px 47px;
+        box-sizing: border-box;
+        border: none;
+        background-color: #FFFFFF;
+        border: 1px solid#707070;
+        border-radius: 17px;
+        width: 363px;
+        height: 34px;
+      }
+      .gal4{
+        margin: 99px 0px -80px -300px ;
+        font-size: 16px;
+        color:#464646;
+     
+    }
+     .body11{
+        margin: -60px 330px ;
+     }
+     .paper{
+        position:absolute;        
+        margin: 15px 390px ;
+        color: black;
+     }
+     .loca{
+        position:absolute;
+        margin: 15px 430px ;
+        color: black;
+
+     }
+     .box119{
+      margin: 284px 0px 0px 0px;
+      height: 800px;
+     
+
+    }

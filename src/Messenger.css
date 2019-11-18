@@ -1,0 +1,133 @@
+.Messenger{
+    margin: 268px 0px 0px 151px;
+    font-family: 'Athiti', Superspace;
+    height: 0px;
+  }
+  
+  
+  .box1{
+    font-family: 'Athiti', Superspace;
+    border: 1px solid #ccc;
+    background: #FAE0E0;
+    max-width: 344px;
+    height: 264px;
+    margin: 15px;
+    border-radius: 22px;
+    box-shadow: 2px 3px 3px rgba(57, 63, 72, 0.3);
+    color: black;
+    font-size: 26px;
+    text-transform: uppercase; 
+    margin-left:1344px ;
+
+  }
+  .serif{
+      
+      color: black;
+      font-size: 26px;
+      margin-left: 60px;
+      
+ 
+  }
+  .serif0{
+    font-family: 'Athiti', Superspace;
+    color: black;
+    font-size: 26px;
+    margin-left: 120px ;
+    padding: 10px;
+
+   
+  
+ 
+  }
+  
+
+   .buttonmess {
+      font-family: 'Athiti', Superspace;
+      background-color:#D9D9D9; 
+      color: black;
+      font-size: 30px;
+      margin: 20px;
+      border: 1px solid#707070;
+      border-radius: 14px;
+      width: 344px;
+      height: 73px;
+      box-shadow: 2px 3px 3px rgba(57, 63, 72, 0.3);
+      margin-left: 1344px ; 
+    
+    }
+
+
+    .bodymessen10{
+      background-color: #FFFAFA;
+      border: 1px solid#707070;
+      width: 344px;
+      height: 500px;
+      margin-left: 1344px;
+      border-radius: 22px;
+     
+    }
+   
+    .activemess {
+        font-family: 'Athiti', Superspace;
+        border-radius: 20px 20px 0 0; 
+         background-color: #FAE0E0;
+         border: 1px solid#707070;
+         color: #464646;
+         width: 344px;
+         height: 70px;
+         font-size: 30px;
+         text-align: center;
+         margin-left: 0px;
+         margin:0px;
+       
+        
+     }
+    .body6{
+      margin-left: 50px;
+      margin: 50px;
+       
+
+    }
+    .gal0{
+        margin:20px 30px 10px 10px;
+    }
+    .body7{
+      margin: -380px 30px ;
+      
+       
+
+    }
+    .messenger0{
+       
+        background-color: #E2BCC3;
+        border: 1px solid#707070;
+        color: #707070;
+        width: 464px;
+        height: 75px;
+        font-size: 20px;
+        text-align: center;
+        margin: 489px 0px 0px -55px;
+       
+    }
+    .gal300{
+        margin:15px 0px -60px -400px;
+        
+    }
+    .serif99{
+        margin:10px 0px -60px -200px;
+    }
+    .ka{
+        margin: 0px -400px 80px 0px;
+        color: #707070;
+
+    }
+    .body8{
+        margin: 30px;
+
+    }
+    .box199999{
+      margin: 0px 0px 17px 0px;
+      height: 800px;
+     
+
+    }
